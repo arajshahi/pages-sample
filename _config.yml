@@ -28,7 +28,7 @@ Linkedin: https://www.linkedin.com/in/ayush-raj-shahi/
 github_username:  arajshahi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
